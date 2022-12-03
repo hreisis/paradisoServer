@@ -1,0 +1,65 @@
+[{
+	"_id": {
+		"$oid": "5f0280b0258ff350affd3606"
+	},
+	"featured": false,
+	"name": "89 Malls",
+	"image": "images/mall1.png",
+	"description": "22 stores opening at 89 malls all over the world!.",
+	"createdAt": {
+		"$date": "2022-07-06T01:38:56.690Z"
+	},
+	"updatedAt": {
+		"$date": "2022-07-06T01:38:56.690Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280bd258ff350affd3607"
+	},
+	"featured": false,
+	"name": "Lansing Mall",
+	"image": "images/mall2.jpg",
+	"description": "Our new partner at North America.",
+	"createdAt": {
+		"$date": "2022-07-06T01:39:09.571Z"
+	},
+	"updatedAt": {
+		"$date": "2022-07-06T01:39:09.571Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280c3258ff350affd3608"
+	},
+	"featured": false,
+	"name": "The Table",
+	"image": "images/table.png",
+	"description": "Our long term partner at Asia.",
+	"createdAt": {
+		"$date": "2022-07-06T01:39:15.483Z"
+	},
+	"updatedAt": {
+		"$date": "2022-07-06T01:39:15.483Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280ca258ff350affd3609"
+	},
+	"featured": true,
+	"name": "Sushi Time",
+	"image": "images/sushi.png",
+	"description": "Provide complimentary drinks at festivals!.",
+	"createdAt": {
+		"$date": "2022-07-06T01:39:22.833Z"
+	},
+	"updatedAt": {
+		"$date": "2022-07-06T01:39:22.833Z"
+	},
+	"__v": 0
+}]
+

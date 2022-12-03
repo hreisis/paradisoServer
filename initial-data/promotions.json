@@ -1,0 +1,17 @@
+[{
+	"_id": {
+		"$oid": "5f0280ff258ff350affd360a"
+	},
+	"featured": true,
+	"name": "Boba Milk Tea",
+	"image": "images/boba.jpg",
+	"description": "Enjoy a free topping while you order the milk tea!",
+	"createdAt": {
+		"$date": "2022-07-06T01:40:15.270Z"
+	},
+	"updatedAt": {
+		"$date": "2022-07-06T01:40:15.270Z"
+	},
+	"__v": 0
+}]
+
