@@ -5,7 +5,13 @@ const cors = require('./cors');
 
 const teaRouter = express.Router();
 
+const middleware = (req, res, next) => {
+    console.log("Router test succeed!");
+    next();
+  };
+
 teaRouter.route('/')
+
 .options(cors.corsWithOptions, (req, res) => res.sendStatus(200))
 .get(cors.cors, (req, res, next) => {
     Tea.find()
